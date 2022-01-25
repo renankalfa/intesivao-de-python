@@ -15,7 +15,7 @@ Todos os dias, o nosso sistema atualiza as vendas do dia anterior. O seu trabalh
 
 Ao automatizar pela primeira vez eu fiquei encantado. Porém, a limitação desse modo é não poder realizar outra tarefa enquanto a automatização é feita.
 
-#### Aula 2
+#### Aula 2 - Análise de dados
 ##### Desafio
 Você trabalha em uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone. O problema é que, analisando o histórico dos clientes dos últimos anos, você percebeu que a empresa está com Churn de mais de 26% dos clientes. Isso representa uma perda de milhões para a empresa. O que a empresa precisa fazer para resolver isso?
 ##### Como resolvi o desafio?
@@ -38,13 +38,13 @@ Você trabalha em uma empresa de telecom e tem clientes de vários serviços dif
     - Priorizar outras formas de pagamento
     - Desconto nas outras opções
 
-#### Aula 3
+#### Aula 3 - Web Scraping
 ##### Desafio
 Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cotação de dólar, euro e ouro. Precisamos pegar na internet, de forma automática, a cotação desses 3 itens e saber quanto devemos cobrar pelos nossos produtos, considerando uma margem de contribuição que temos na nossa base de dados.
 ##### Como resolvi o desafio?
 - **Pegando as cotações**: utilizando o **selenium** (configurei para abrir o Chrome), automatizei para pesquisar e guardar a cotação do dólar, euro e do ouro em uma variável.
 - **Atualizando a base de dados**: depois de aberto a base de dados, utilizando o **pandas**, programei para atualizar as cotações, preço de comprae preço de venda. Depois, para exportar como excel.
 
-#### Aula 4
+#### Aula 4 - Ciência de dados e Inteligência artificial
 ##### Desafio
 Nosso desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes que a empresa Hashtag investe: TV, Jornal e Rádio. TV, Jornal e Rádio estão em milhares de reais e vendas estão em milhões.
