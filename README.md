@@ -52,4 +52,8 @@ Nosso desafio é conseguir prever as vendas que vamos ter em determinado períod
 Depois de entender sobre o desafio, a área e a empresa, hora de botar a mão na massa (ou no Python). Importei a base de dados e no caso ela já veio "limpa".
 - **Análise Exploratória**: depois de visualizar sobre como cada item está distribuído, por meio de gráficos das bibliotecas **seaborn** e **matplotlib**, foi possível visualizar a correlação entre cada coluna (por exemplo, a de vendas com a quantidade investida em anúncios na TV);
 - **Modelagem + Algoritmos**: agora, separei a base de dados em uma parte para treinar (70% da base de dados) dois algoritmo e a outra parte para testar (30%), carreguei os modelos pela biblioteca **sklearn** (Regressão Linear e Random Forest), os treinei e gerei previsões. No meu caso, o modelo Random Forest, obteve uma melhor precisão.
-- **Realização das previsões de vendas**: com o modelo treinado, agora foi possível gerar previsões para cada caso de investimento em anúncios. Informações como essas poderiam ser usadas para ter uma dimensão melhor do qu
+- **Realização das previsões de vendas**: com o modelo treinado, agora foi possível gerar previsões para cada caso de investimento em anúncios.
+
+Informações como essas, poderiam ser usadas pela galera de marketing para saber onde investir mais ou até deixar de investir em um meio; pela galera do gerenciamento de custos para ter uma dimensão melhor do quanto poderá ser gasto (despesas por exemplo) e como forma de incentivar o investimento nessa empresa demonstrando a sua mudança e o quanto a mais poderá ser retornado.
+
+##
