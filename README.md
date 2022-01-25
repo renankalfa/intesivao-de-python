@@ -38,4 +38,13 @@ Você trabalha em uma empresa de telecom e tem clientes de vários serviços dif
     - Priorizar outras formas de pagamento
     - Desconto nas outras opções
 
-Em construção...
+#### Aula 3
+##### Desafio
+Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cotação de dólar, euro e ouro. Precisamos pegar na internet, de forma automática, a cotação desses 3 itens e saber quanto devemos cobrar pelos nossos produtos, considerando uma margem de contribuição que temos na nossa base de dados.
+##### Como resolvi o desafio?
+- **Pegando as cotações**: utilizando o **selenium** (configurei para abrir o Chrome), automatizei para pesquisar e guardar a cotação do dólar, euro e do ouro em uma variável.
+- **Atualizando a base de dados**: depois de aberto a base de dados, utilizando o **pandas**, programei para atualizar as cotações, preço de comprae preço de venda. Depois, para exportar como excel.
+
+#### Aula 4
+##### Desafio
+Nosso desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes que a empresa Hashtag investe: TV, Jornal e Rádio. TV, Jornal e Rádio estão em milhares de reais e vendas estão em milhões.
