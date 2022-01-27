@@ -2,9 +2,10 @@
 Neste repositório serão armazenados os arquivos, descrições dos eventos e os meus aprendizados.
 
 ## Intensivão de Python - Hashtag Programação
-Um evento focado em Python para utilizá-lo na **automatização de qualquer processo, Análise de Dados, Web Ccraping** e um **projeto de Ciência de Dados e Inteligência Artificial** do começo ao fim.
+Um evento focado em Python para utilizá-lo na **automatização de qualquer processo, Análise de Dados, Web Ccraping** e um **projeto de Ciência de Dados e Inteligência Artificial** do começo ao fim. Em como funcionam, de maneira geral, as bibliotecas utilizadas e a implementação do código em Python. 
 
 ### Aprendizados
+Os principais aprendizados durante esse intensivão foram na parte de **automatização de projetos, análise de dados** e um **projeto inteiro de Ciência de Dados**.
 #### Aula 1 - **Automação de Sistemas e Processos com Python**
 ##### Desafio
 Todos os dias, o nosso sistema atualiza as vendas do dia anterior. O seu trabalho diário, como analista, é enviar um e-mail para a diretoria, assim que começar a trabalhar, com o faturamento e a quantidade de produtos vendidos no dia anterior.
