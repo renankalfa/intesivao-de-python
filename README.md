@@ -53,3 +53,7 @@ Depois de entender sobre o desafio, a área e a empresa, hora de botar a mão na
 - **Realização das previsões de vendas**: com o modelo treinado, agora foi possível gerar previsões para cada caso de investimento em anúncios.
 
 Informações como essas, poderiam ser usadas pela galera de marketing para saber onde investir mais ou até deixar de investir em um meio; pela galera do gerenciamento de custos para ter uma dimensão melhor do quanto poderá ser gasto (despesas por exemplo) e como forma de incentivar o investimento nessa empresa demonstrando a sua mudança e o quanto a mais poderá ser retornado.
+
+#
+
+<a href="#top">Back to top</a>
